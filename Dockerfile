@@ -1,8 +1,8 @@
-# FreeBSD 10.3-RELEASE
+# FreeBSD 11.2-RELEASE
 
 FROM scratch
-MAINTAINER Andres Montalban <amontalban@gmail.com>
+MAINTAINER Honza Hommer <honza@hommer.cz>
 
-LABEL Description="FreeBSD 10.3-RELEASE base installation"
+LABEL Description="FreeBSD 11.2-RELEASE base installation"
 
-ADD FreeBSD/base.txz /
+ADD https://ftp.freebsd.org/pub/FreeBSD/releases/amd64/11.2-RELEASE/base.txz /base.txz
