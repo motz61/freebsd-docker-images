@@ -10,7 +10,7 @@ And this will get you latest version.
 
 If you want a specific version you can use a tag, for example:
 
-`docker pull linpct/freebsd:11.3-RELEASE`
+`docker pull linpct/freebsd:12.0-RELEASE`
 
 For more information visit https://hub.docker.com/r/linpct/freebsd/
 
