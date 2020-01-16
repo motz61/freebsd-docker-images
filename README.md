@@ -4,14 +4,14 @@ This repository is the source of automated Docker images builds to have some sor
 
 To start using this images you can execute:
 
-`docker pull honzahommer/freebsd`
+`docker pull linpct/freebsd`
 
 And this will get you latest version.
 
 If you want a specific version you can use a tag, for example:
 
-`docker pull honzahommer/freebsd:11.2-RELEASE`
+`docker pull linpct/freebsd:11.3-RELEASE`
 
-For more information visit https://hub.docker.com/r/honzahommer/freebsd/
+For more information visit https://hub.docker.com/r/linpct/freebsd/
 
 Thanks for checking this out!
